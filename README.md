@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Eunice and my personality is cats 🐈 and hiking ⛰️ ! 
+
 <!--
 **eunicode/eunicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
+https://www.webfx.com/tools/emoji-cheat-sheet/
 -->
