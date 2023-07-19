@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Eunice and my personality is cats 🐈 and hiking ⛰️ ! 
+I'm Eunice, and my entire personality is cats 🐈 and hiking ⛰️ ! 
 
 <!--
 **eunicode/eunicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
